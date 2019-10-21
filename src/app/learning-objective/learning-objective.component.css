@@ -1,0 +1,20 @@
+/* * {
+	color: #5C93CE;
+	font-family: "Helvetica";
+	text-align: center;
+} */
+
+p {
+	font-style: italic;
+	background: #cacacb;
+	padding: 3%;
+}
+
+h1 {
+	color: #354a5f;
+	padding-top: 3%;
+}
+
+div div {
+	border-style: solid;
+}
